@@ -19,7 +19,7 @@ This repository contains the tasks that I have completed as a **Data Science & B
 
  Github Solution link :- [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb)
  
- Youtube Video Link :-
+ Youtube Video Link :- [click here](https://youtu.be/onj-iB-epp4)
  
  
 1.Predict the percentage of marks of an student based on the number of study hours.
@@ -38,7 +38,7 @@ This repository contains the tasks that I have completed as a **Data Science & B
 
 Github Solution link :- [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-2_Prediction_using_Unsupervised_ML.ipynb)
 
- Youtube Video Link :- 
+ Youtube Video Link :-  [click here](https://youtu.be/IaXdDljxxIk)
 
 
 1.From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
