@@ -17,7 +17,7 @@ This repository contains the tasks that I have completed as a **Data Science & B
  
  Dataset :- [http://bit.ly/w](http://bit.ly/w)
 
- Github Solution link :-
+ Github Solution link :- [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb)
  
  Youtube Video Link :-
  
@@ -36,7 +36,7 @@ This repository contains the tasks that I have completed as a **Data Science & B
 
  Dataset :- [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-Github Solution link :- 
+Github Solution link :- [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-2_Prediction_using_Unsupervised_ML.ipynb)
 
  Youtube Video Link :- 
 
